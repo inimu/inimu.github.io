@@ -3,7 +3,7 @@ inimu.github.io
 
 tekno ♕ info ♖ intermezzo ♗ inimu.com
 
-![inimu.com logo (watermark)](http://inimu.files.wordpress.com/2010/02/inimu-com-logo-02-450x150.png)
+![inimu.com logo (watermark)](http://inimu.github.io/images/brand/inimu.com-logo-banner-watermark.png)
 
 Situs **inimu** **dot** **com** adalah situs berisi blog, macam-macam isinya, ini dia:
 
