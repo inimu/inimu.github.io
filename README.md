@@ -17,7 +17,7 @@ Ringkasan artikel-artikel terbarunya bisa di lihat di sini. Untuk berlangganan u
 
 [Berlangganan update artikel inimu.com](http://feeds.feedburner.com/inimucom)
 
-![inimu.com feed banner](http://feeds.feedburner.com/Inimucom.1.gif)
+![inimu.com feed banner](https://feeds.feedburner.com/inimucom.1.gif)
 
 Selain berisi blog, inimu.com juga menyediakan beberapa widget dan tools yang bisa dipasang di website/blog kamu. Silahkan meluncur ke **[halaman widget](http://inimu.com/widget)**.
 
